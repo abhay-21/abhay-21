@@ -12,9 +12,9 @@ I've got a bunch of pinned projects, but my favorites are the Bengaluru House Pr
 | :--- | :--- |
 | **Languages** | Python, C++, C, Java |
 | **Data Science & ML** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLP |
-| **DevOps & Cloud** | AWS, Docker, Kubernetes, Git, Jenkins, Hadoop/HDFS |
+| **DevOps & Cloud** | AWS, Docker, Kubernetes, Git, Jenkins |
 | **Web Development** | React, Vite, Tailwind CSS |
-| **Data Tools & Platforms** | MySQL, Power BI, Excel, Jupyter Notebook, Google Colab |
+| **Data Tools & Platforms** | MySQL, Power BI, Excel, Jupyter Notebook, Google Colab, Hadoop/HDFS |
 | **Core CS** | DBMS, OS, Computer Networks, SQL, OOP, DSA |
 
 I've solved over 100 coding problems across LeetCode and HackerRank, earning a 5-star rating in Python!
