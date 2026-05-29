@@ -24,5 +24,5 @@ If you want to collaborate or just chat about tech, you can reach me at abhayjai
 **Fun Facts:**
 
 * One piece is real !!
-* I enjoy playing Roblox in my downtime.
+* I enjoy playing Chess in my downtime. (let's play in chess.com my id is abhay_1024)
 * I love watching Indian historical epics, especially films directed by S.S. Rajamouli.
