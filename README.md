@@ -17,7 +17,7 @@ I've got a bunch of pinned projects, but my favorites are the Bengaluru House Pr
 | **Data Tools & Platforms** | MySQL, Power BI, Excel, Jupyter Notebook, Google Colab, Hadoop/HDFS |
 | **Core CS** | DBMS, OS, Computer Networks, SQL, OOP, DSA |
 
-I've solved over 100 coding problems across LeetCode and HackerRank, earning a 5-star rating in Python!
+I've solved over 100 coding problems across LeetCode and HackerRank, earning a 5-star rating in Python and CPP!
 
 If you want to collaborate or just chat about tech, you can reach me at abhayjaiswal789821@gmail.com.
 
